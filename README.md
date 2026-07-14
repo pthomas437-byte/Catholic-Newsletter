@@ -1,8 +1,11 @@
-# Catholic Intelligence Newsletter
+# Catholic Newsletter (Blessed Sacrament Catholic Church)
 
 A weekly newsletter summarizing news from the Vatican (Vatican News, Holy See
-Press Office) and the wider Catholic press (Catholic News Agency, EWTN,
-USCCB), formatted as a Navy & Gold `.docx` file.
+Press Office), the wider Catholic press (Catholic News Agency, EWTN, USCCB),
+and North Carolina Catholic news (Dioceses of Raleigh & Charlotte), formatted
+as a Navy (`#000080`) & Gold (`#FFD700`) `.docx` file. The banner reads:
+"Catholic Newsletter" / "Blessed Sacrament Catholic Church" / the date the
+issue was produced.
 
 ## How it works
 
@@ -12,8 +15,8 @@ USCCB), formatted as a Navy & Gold `.docx` file.
 2. It then runs `generate_newsletter.py` on that JSON to produce the formatted
    `.docx` file in the `issues/` folder, and commits/pushes both files.
 3. Every Monday at 7:00 AM, a scheduled task on this PC runs `git pull` in
-   this folder, so the new issue shows up here automatically — no manual
-   steps needed.
+   this folder and copies the newest `.docx` into
+   `C:\Users\pthom\iCloudDrive\Catholic Newsletter` — no manual steps needed.
 
 ## Folder structure
 

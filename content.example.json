@@ -1,9 +1,8 @@
 {
-  "title": "Catholic Intelligence Newsletter",
-  "subtitle": "A Weekly Briefing on the Vatican and the Universal Church",
-  "issue_line": "Issue No. 1  |  Week of July 20, 2026",
+  "title": "Catholic Newsletter",
+  "subtitle": "Blessed Sacrament Catholic Church",
   "issue_date": "2026-07-20",
-  "intro": "This week: a summary of Vatican News, Holy See Press Office bulletins, and coverage from the wider Catholic press.",
+  "intro": "This week: a summary of Vatican News, Holy See Press Office bulletins, coverage from the wider Catholic press, and news from the Dioceses of Raleigh and Charlotte.",
   "sections": [
     {
       "heading": "Vatican News",
@@ -40,7 +39,19 @@
           "url": "https://www.catholicnewsagency.com/example"
         }
       ]
+    },
+    {
+      "heading": "North Carolina: Dioceses of Raleigh & Charlotte",
+      "articles": [
+        {
+          "title": "Example parish or diocesan headline",
+          "source": "Diocese of Raleigh",
+          "date": "2026-07-15",
+          "summary": "Summary of diocesan news, parish events, or announcements relevant to North Carolina Catholics.",
+          "url": "https://www.dioceseofraleigh.org/example"
+        }
+      ]
     }
   ],
-  "footer_note": "Compiled from Vatican and Catholic press sources. For personal use."
+  "footer_note": "Compiled from Vatican and Catholic press sources, and the Dioceses of Raleigh and Charlotte. For personal use."
 }

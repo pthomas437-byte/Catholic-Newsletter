@@ -1,5 +1,5 @@
 """
-Builds the Catholic Intelligence Newsletter as a Navy & Gold .docx file.
+Builds the Catholic Newsletter (Blessed Sacrament Catholic Church) as a Navy & Gold .docx file.
 
 Usage:
     python generate_newsletter.py content.json
@@ -10,6 +10,7 @@ for the expected shape) and writes a formatted .docx into the issues/ folder.
 
 import json
 import sys
+from datetime import datetime
 from pathlib import Path
 
 from docx import Document
@@ -19,17 +20,22 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
 
-NAVY = RGBColor(0x0A, 0x1F, 0x44)
-GOLD = RGBColor(0xC9, 0xA2, 0x27)
+NAVY = RGBColor(0x00, 0x00, 0x80)
+GOLD = RGBColor(0xFF, 0xD7, 0x00)
 WHITE = RGBColor(0xFF, 0xFF, 0xFF)
 DARK_GRAY = RGBColor(0x44, 0x44, 0x44)
 BODY_TEXT = RGBColor(0x22, 0x22, 0x22)
 
-NAVY_HEX = "0A1F44"
-GOLD_HEX = "C9A227"
+NAVY_HEX = "000080"
+GOLD_HEX = "FFD700"
 
 FONT_HEADING = "Georgia"
 FONT_BODY = "Calibri"
+
+# FFD700 (bright gold) reads well on the navy banner but is too pale for body
+# text on a white page, so meta lines (source | date) use a darker goldenrod
+# for legibility while borders/rules still use the true banner gold.
+GOLD_TEXT = RGBColor(0xB8, 0x86, 0x0B)
 
 
 def set_cell_background(cell, hex_color):
@@ -60,7 +66,20 @@ def set_narrow_margins(doc, inches=0.9):
         section.right_margin = Inches(inches)
 
 
-def add_masthead(doc, title, subtitle, issue_line):
+def format_date_line(content):
+    raw = content.get("date_produced")
+    if raw:
+        return raw
+    issue_date = content.get("issue_date")
+    if issue_date:
+        try:
+            return datetime.strptime(issue_date, "%Y-%m-%d").strftime("%B %d, %Y")
+        except ValueError:
+            return issue_date
+    return ""
+
+
+def add_masthead(doc, title, parish_line, date_line):
     table = doc.add_table(rows=1, cols=1)
     table.alignment = WD_TABLE_ALIGNMENT.CENTER
     cell = table.rows[0].cells[0]
@@ -79,23 +98,24 @@ def add_masthead(doc, title, subtitle, issue_line):
 
     p2 = cell.add_paragraph()
     p2.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p2.paragraph_format.space_after = Pt(20)
-    run2 = p2.add_run(subtitle)
+    p2.paragraph_format.space_after = Pt(6)
+    run2 = p2.add_run(parish_line)
     run2.font.color.rgb = WHITE
-    run2.font.size = Pt(12)
+    run2.font.size = Pt(13)
     run2.italic = True
     run2.font.name = FONT_HEADING
 
-    doc.add_paragraph().paragraph_format.space_after = Pt(2)
-
-    p3 = doc.add_paragraph()
+    p3 = cell.add_paragraph()
     p3.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p3.paragraph_format.space_after = Pt(16)
-    run3 = p3.add_run(issue_line)
-    run3.font.color.rgb = NAVY
-    run3.font.size = Pt(10)
-    run3.bold = True
-    add_border(p3, GOLD_HEX, side="bottom", size=14, space=6)
+    p3.paragraph_format.space_after = Pt(20)
+    run3 = p3.add_run(date_line)
+    run3.font.color.rgb = GOLD
+    run3.font.size = Pt(11)
+    run3.font.name = FONT_HEADING
+
+    accent = doc.add_paragraph()
+    accent.paragraph_format.space_after = Pt(16)
+    add_border(accent, GOLD_HEX, side="bottom", size=14, space=2)
 
 
 def add_intro(doc, text):
@@ -143,7 +163,7 @@ def add_article(doc, article):
         run_meta = p_meta.add_run(" | ".join(meta_bits))
         run_meta.italic = True
         run_meta.font.size = Pt(9)
-        run_meta.font.color.rgb = GOLD
+        run_meta.font.color.rgb = GOLD_TEXT
         run_meta.font.name = FONT_BODY
 
     if article.get("summary"):
@@ -186,9 +206,9 @@ def build(content, out_path):
 
     add_masthead(
         doc,
-        content.get("title", "Catholic Intelligence Newsletter"),
-        content.get("subtitle", "A Weekly Briefing on the Vatican and the Universal Church"),
-        content.get("issue_line", ""),
+        content.get("title", "Catholic Newsletter"),
+        content.get("subtitle", "Blessed Sacrament Catholic Church"),
+        format_date_line(content),
     )
     add_intro(doc, content.get("intro"))
 
