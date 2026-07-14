@@ -1,9 +1,8 @@
 {
-  "title": "Catholic Intelligence Newsletter",
-  "subtitle": "A Weekly Briefing on the Vatican and the Universal Church",
-  "issue_line": "Issue No. 1  |  Week of July 14, 2026",
+  "title": "Catholic Newsletter",
+  "subtitle": "Blessed Sacrament Catholic Church",
   "issue_date": "2026-07-14",
-  "intro": "This week's dominant story remains the fallout from the Society of St. Pius X's unauthorized episcopal consecrations: the SSPX has now filed a formal canonical appeal against its excommunication, while Pope Leo XIV settled into his first summer stretch at Castel Gandolfo with a lakeside Angelus, a lunch for the poor, and a message of hope to young Iraqi Christians. Elsewhere, the wider Catholic press tracked church leaders speaking into national tensions, from a mosque-burning controversy in Northern Ireland to a contested election in Colombia.",
+  "intro": "Pope Leo XIV settled into his first summer at Castel Gandolfo this week, praying his Sunday Angelus by the lake, sharing a meal with the poor, and calling for peace in Ukraine and the Middle East, even as the Vatican named new bishops for Eichstätt, Winnipeg, and Peru and pressed forward on reconciliation with the Society of St. Pius X. Elsewhere, U.S. bishops continued urging Catholics away from SSPX Masses, Catholic relief agencies mobilized after deadly earthquakes in Venezuela, and here in North Carolina the Diocese of Raleigh promoted a fall festival on American sainthood causes while the Diocese of Charlotte unveiled a refreshed visual identity.",
   "sections": [
     {
       "heading": "Vatican News",
@@ -12,28 +11,28 @@
           "title": "Pope Leo XIV: God never ceases to believe in us",
           "source": "Vatican News",
           "date": "2026-07-12",
-          "summary": "At his first Sunday Angelus prayed from Castel Gandolfo this summer, Pope Leo XIV reflected on the parable of the sower, urging pilgrims to make room for prayer and silence amid their summer rest.",
+          "summary": "In his first Sunday Angelus from his summer residence at Castel Gandolfo, Pope Leo XIV reflected on the Parable of the Sower and urged Catholics to make room for prayer and silence over the summer, while also praying for an end to the wars in Ukraine and the Middle East.",
           "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-xiv-angelus-castel-gandolfo-summer-gospel-reflection.html"
         },
         {
-          "title": "Pope: May the winds of war not extinguish hope and return to dialogue",
-          "source": "Vatican News",
-          "date": "2026-07-12",
-          "summary": "In the same Angelus address, the Pope lamented ongoing conflict in the Middle East, Ukraine and elsewhere, calling dialogue and diplomacy the only path to a just and lasting peace.",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-may-winds-war-not-extinguish-hope-and-return-to-dialogue.html"
-        },
-        {
-          "title": "Pope Leo at Borgo Laudato si' lunch: 'I came with a hunger for genuine charity'",
+          "title": "Pope's lunch with the poor: fragility as a source of strength for communities",
           "source": "Vatican News",
           "date": "2026-07-11",
-          "summary": "The Pope shared a meal with about 200 people facing poverty at Castel Gandolfo's Borgo Laudato Si', calling for a society that eliminates the root causes of poverty and injustice.",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-07/lunch-with-pope-leo-xiv-borgo-laudato-si-poor-address.html"
+          "summary": "Pope Leo XIV welcomed about 200 people facing poverty and hardship to Mass and a shared meal at his summer residence, telling them he came 'hungry' for justice and for a Church that truly opens its doors to everyone.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/laudato-si-village-borgo-castel-gandolfo-pope-leo-xiv-lunch-poor.html"
+        },
+        {
+          "title": "Pope Leo XIV calls for prayers for peace in Ukraine",
+          "source": "Vatican News",
+          "date": "2026-07-11",
+          "summary": "Marking 35 years since the Latin Rite Church's structures were restored in Ukraine, Pope Leo XIV wrote to his special envoy asking Catholics everywhere to pray for peace and for the many families still suffering from the war.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-ukraine-gallagher-special-envoy-anniversary-latin-rite.html"
         },
         {
           "title": "Pope to Iraqi youth: Be Christ's light and hope in a wounded world",
           "source": "Vatican News",
           "date": "2026-07-08",
-          "summary": "In a video message to the Ankawa Youth Meeting in Iraq, Pope Leo XIV encouraged young Christians to root their mission in prayer and the sacraments and to become peacemakers in a region longing for reconciliation.",
+          "summary": "Pope Leo XIV sent a video message to young Christians gathered for a youth meeting in Ankawa, Iraq, encouraging them to live out faith, love, and hope, and to be peacemakers in a country still marked by war and instability.",
           "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-videomessage-iraqi-youth-christians.html"
         }
       ]
@@ -42,25 +41,25 @@
       "heading": "Holy See Press Office",
       "articles": [
         {
-          "title": "Pope Leo XIV continues reform of Diocese of Rome with addition of leadership position",
-          "source": "Catholic News Agency",
+          "title": "Resignations and Appointments, 09.07.2026 — New Archbishop for Ukrainian Catholics in Winnipeg and New Apostolic Vicar of Jaén, Peru",
+          "source": "Holy See Press Office",
+          "date": "2026-07-09",
+          "summary": "The Pope accepted the resignation of Archbishop Lawrence Huculak as head of the Ukrainian Catholic Archeparchy of Winnipeg, naming Bishop Michael Kwiatkowski to succeed him, and appointed Father Juan Carlos Morante Buchhammer, S.J., as the new Apostolic Vicar of Jaén in Peru.",
+          "url": "https://press.vatican.va/content/salastampa/es/bollettino/pubblico/2026/07/09/090726a.html"
+        },
+        {
+          "title": "Message of Pope Leo XIV for the AI for Good Global Summit 2026",
+          "source": "Holy See Press Office",
+          "date": "2026-07-08",
+          "summary": "Delivered on the Pope's behalf by Cardinal Secretary of State Pietro Parolin to a United Nations-linked summit in Geneva, the message called for open dialogue among scientists, leaders, and the public to ensure artificial intelligence serves human dignity and the common good.",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/07/08/260708a.html"
+        },
+        {
+          "title": "Resignations and Appointments, 07.07.2026 — New Bishop of Eichstätt and First 'Moderator of the Curia' for Rome",
+          "source": "Holy See Press Office",
           "date": "2026-07-07",
-          "summary": "The Pope appointed Fr. Pier Luigi Stolfi as the first-ever moderator of the Curia for the Diocese of Rome, a new five-year post assisting Cardinal Vicar Baldo Reina in overseeing the vicariate's daily governance.",
-          "url": "https://catholics.news/pope-leo-xiv-continues-reform-of-diocese-of-rome-with-addition-of-leadership-position"
-        },
-        {
-          "title": "Lefebvrite priests and lay faithful: ways to repent and return to full communion",
-          "source": "Vatican News",
-          "date": "2026-07-02",
-          "summary": "The Dicastery for the Doctrine of the Faith published a formal procedure, now being circulated through nunciatures, allowing SSPX priests and lay faithful to seek reconciliation and full communion with the Church.",
-          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-07/fraternity-saint-pius-x-ways-to-repent-return-full-communion.html"
-        },
-        {
-          "title": "Society of St. Pius X appeals to Vatican against schism decree",
-          "source": "EWTN News",
-          "date": "2026-07-11",
-          "summary": "The SSPX filed a canonical appeal with the Dicastery for the Doctrine of the Faith against its July 2 excommunication decree, a step that under canon 1353 temporarily suspends enforcement while the appeal is reviewed.",
-          "url": "https://www.ewtnnews.com/vatican/society-of-st-pius-x-appeals-to-vatican-against-schism-decree"
+          "summary": "Pope Leo XIV named Bishop Christian Würtz, until now an auxiliary bishop of Freiburg, Germany, as the new Bishop of Eichstätt in Bavaria, and appointed Father Pier Luigi Stolfi to a newly created post overseeing the daily administration of the Diocese of Rome.",
+          "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2026/07/07/0583/01094.html"
         }
       ]
     },
@@ -68,35 +67,61 @@
       "heading": "Wider Catholic Press",
       "articles": [
         {
-          "title": "Irish bishops condemn burning of mosque replica at holiday festivities",
+          "title": "National Eucharistic Pilgrimage inspires wave of priestly and religious vocations",
           "source": "EWTN News",
-          "date": "2026-07-11",
-          "summary": "Archbishop Eamon Martin of Armagh joined Church of Ireland leaders in denouncing a replica mosque burned atop a loyalist bonfire in Northern Ireland, calling it a grossly offensive attack on the Muslim community.",
-          "url": "https://www.ewtnnews.com/world/europe/irish-bishops-condemn-burning-of-mosque-replica-at-holiday-festivities"
+          "date": "2026-07-13",
+          "summary": "Organizers report that more than half of the 45 young adults who served as perpetual pilgrims carrying the Eucharist across the country since 2024 are now discerning or actively pursuing priesthood, religious life, or other forms of consecrated life.",
+          "url": "https://www.ewtnnews.com/world/us/national-eucharistic-pilgrimage-inspires-wave-of-priestly-and-religious-vocations"
         },
         {
-          "title": "Catholic Church in Colombia calls for respecting presidential election results",
+          "title": "'We will rise with him,' Venezuelan bishop says as Catholic nonprofits mobilize relief efforts",
           "source": "EWTN News",
           "date": "2026-07-11",
-          "summary": "Colombia's bishops' conference urged citizens and political leaders to accept the outcome of the June presidential runoff as a condition for national peace, amid a dispute over the results.",
-          "url": "https://www.ewtnnews.com/world/americas/catholic-church-in-colombia-calls-for-respecting-presidential-election-results"
+          "summary": "After deadly earthquakes devastated Venezuela, Auxiliary Bishop Carlos Márquez described clergy and religious comforting survivors, while Catholic Relief Services and Caritas Venezuela distribute food, water, hygiene supplies, and medical aid to the hardest-hit communities.",
+          "url": "https://www.ewtnnews.com/world/us/we-will-rise-with-him-venezuelan-bishop-says-as-catholic-nonprofits-mobilize-relief-efforts"
         },
         {
-          "title": "Society of St. Pius X appeals to Vatican against schism decree, cites Canon 1353",
-          "source": "National Catholic Register",
-          "date": "2026-07-11",
-          "summary": "CNA/NCRegister's coverage of the SSPX appeal notes the group argues the excommunication decree is now suspended pending Vatican review, while it continues to reject the Vatican's characterization of its status.",
-          "url": "https://www.ncregister.com/cna/society-of-st-pius-x-appeals-to-vatican-against-schism-decree"
-        },
-        {
-          "title": "Training journalists to be peacemakers: EWTN Summer Academy concludes in Rome",
+          "title": "SSPX Masses an 'abuse' of Eucharist: U.S. bishops continue to urge Catholics not to attend",
           "source": "EWTN News",
+          "date": "2026-07-09",
+          "summary": "Following the Vatican's excommunication of six Society of St. Pius X bishops, more U.S. bishops are telling Catholics in their dioceses to stop attending SSPX Masses and to return to full communion, warning that the schismatic group's liturgies now divide rather than unite the faithful.",
+          "url": "https://www.ewtnnews.com/world/us/sspx-masses-an-abuse-of-eucharist-u-s-bishops-continue-to-urge-catholics-not-to-attend"
+        },
+        {
+          "title": "US cardinal: Exorcist role should be 'private' after priest's removal tied to UFO controversy",
+          "source": "USCCB",
+          "date": "2026-07-08",
+          "summary": "Cardinal Robert McElroy of Washington explained that he removed a well-known priest from his role as archdiocesan exorcist not because of the priest's claims that many UFO sightings are demonic, but because exorcism ministry should remain a private, quiet work rather than a public platform.",
+          "url": "https://www.usccb.org/news/2026/us-cardinal-exorcist-role-should-be-private-after-priests-removal-tied-ufo-controversy"
+        }
+      ]
+    },
+    {
+      "heading": "North Carolina: Dioceses of Raleigh & Charlotte",
+      "articles": [
+        {
+          "title": "Festival to Highlight U.S. Causes for Canonization at National Shrine of Saint Elizabeth Ann Seton",
+          "source": "Diocese of Raleigh",
           "date": "2026-07-07",
-          "summary": "EWTN's fifth annual Summer Academy wrapped up in Rome, having trained 43 young journalists from 26 countries in Catholic media storytelling, with organizers stressing truth-telling as a form of peacemaking.",
-          "url": "https://www.ewtnnews.com/vatican/training-journalists-to-be-peacemakers-ewtn-summer-academy-concludes-in-rome"
+          "summary": "The Diocese of Raleigh is promoting the inaugural 'Saints on Their Way Festival,' set for September 12-13 in Emmitsburg, Maryland, which will bring together people working on American sainthood causes for talks, prayer, and a vigil Mass.",
+          "url": "https://dioceseofraleigh.org/news/festival-highlight-us-causes-canonization-national-shrine-saint-elizabeth-ann-seton"
+        },
+        {
+          "title": "Bishop Announces Priest Assignments, Pastoral Changes in Raleigh Diocese",
+          "source": "Diocese of Raleigh",
+          "date": "2026-06-23",
+          "summary": "Bishop Luis Rafael Zarama announced a new round of clergy assignments, including Fr. James Fukes, OFM Conv., named Parochial Vicar of our own Blessed Sacrament Parish in Burlington, along with several other Franciscan and diocesan priest placements.",
+          "url": "https://dioceseofraleigh.org/news/bishop-announces-priest-assignments-pastoral-changes-raleigh-diocese"
+        },
+        {
+          "title": "Charlotte Diocese Introduces Refreshed Visual Identity, Makes Brand Promise",
+          "source": "Diocese of Charlotte",
+          "date": "2026-06-24",
+          "summary": "The Diocese of Charlotte unveiled an updated coat of arms and logo along with a new diocese-wide 'brand promise' of offering people 'something more' through the Gospel and community, presenting a consistent identity across parishes and schools.",
+          "url": "https://catholicnewsherald.com/news/90-news/local/12809-charlotte-diocese-introduces-refreshed-visual-identity-makes-brand-promise"
         }
       ]
     }
   ],
-  "footer_note": "Compiled from Vatican News, the Holy See Press Office, and the wider Catholic press (EWTN News, Catholic News Agency, National Catholic Register). For personal use."
+  "footer_note": "Compiled from Vatican News, the Holy See Press Office, and the wider Catholic press (EWTN News, USCCB), and the Dioceses of Raleigh and Charlotte. Diocesan items for North Carolina were the most recent available; some fall slightly outside the strict 7-day window due to limited news volume this week. For personal use."
 }
