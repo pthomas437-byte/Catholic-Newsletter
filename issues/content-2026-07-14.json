@@ -1,0 +1,102 @@
+{
+  "title": "Catholic Intelligence Newsletter",
+  "subtitle": "A Weekly Briefing on the Vatican and the Universal Church",
+  "issue_line": "Issue No. 1  |  Week of July 14, 2026",
+  "issue_date": "2026-07-14",
+  "intro": "This week's dominant story remains the fallout from the Society of St. Pius X's unauthorized episcopal consecrations: the SSPX has now filed a formal canonical appeal against its excommunication, while Pope Leo XIV settled into his first summer stretch at Castel Gandolfo with a lakeside Angelus, a lunch for the poor, and a message of hope to young Iraqi Christians. Elsewhere, the wider Catholic press tracked church leaders speaking into national tensions, from a mosque-burning controversy in Northern Ireland to a contested election in Colombia.",
+  "sections": [
+    {
+      "heading": "Vatican News",
+      "articles": [
+        {
+          "title": "Pope Leo XIV: God never ceases to believe in us",
+          "source": "Vatican News",
+          "date": "2026-07-12",
+          "summary": "At his first Sunday Angelus prayed from Castel Gandolfo this summer, Pope Leo XIV reflected on the parable of the sower, urging pilgrims to make room for prayer and silence amid their summer rest.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-xiv-angelus-castel-gandolfo-summer-gospel-reflection.html"
+        },
+        {
+          "title": "Pope: May the winds of war not extinguish hope and return to dialogue",
+          "source": "Vatican News",
+          "date": "2026-07-12",
+          "summary": "In the same Angelus address, the Pope lamented ongoing conflict in the Middle East, Ukraine and elsewhere, calling dialogue and diplomacy the only path to a just and lasting peace.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-may-winds-war-not-extinguish-hope-and-return-to-dialogue.html"
+        },
+        {
+          "title": "Pope Leo at Borgo Laudato si' lunch: 'I came with a hunger for genuine charity'",
+          "source": "Vatican News",
+          "date": "2026-07-11",
+          "summary": "The Pope shared a meal with about 200 people facing poverty at Castel Gandolfo's Borgo Laudato Si', calling for a society that eliminates the root causes of poverty and injustice.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/lunch-with-pope-leo-xiv-borgo-laudato-si-poor-address.html"
+        },
+        {
+          "title": "Pope to Iraqi youth: Be Christ's light and hope in a wounded world",
+          "source": "Vatican News",
+          "date": "2026-07-08",
+          "summary": "In a video message to the Ankawa Youth Meeting in Iraq, Pope Leo XIV encouraged young Christians to root their mission in prayer and the sacraments and to become peacemakers in a region longing for reconciliation.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-videomessage-iraqi-youth-christians.html"
+        }
+      ]
+    },
+    {
+      "heading": "Holy See Press Office",
+      "articles": [
+        {
+          "title": "Pope Leo XIV continues reform of Diocese of Rome with addition of leadership position",
+          "source": "Catholic News Agency",
+          "date": "2026-07-07",
+          "summary": "The Pope appointed Fr. Pier Luigi Stolfi as the first-ever moderator of the Curia for the Diocese of Rome, a new five-year post assisting Cardinal Vicar Baldo Reina in overseeing the vicariate's daily governance.",
+          "url": "https://catholics.news/pope-leo-xiv-continues-reform-of-diocese-of-rome-with-addition-of-leadership-position"
+        },
+        {
+          "title": "Lefebvrite priests and lay faithful: ways to repent and return to full communion",
+          "source": "Vatican News",
+          "date": "2026-07-02",
+          "summary": "The Dicastery for the Doctrine of the Faith published a formal procedure, now being circulated through nunciatures, allowing SSPX priests and lay faithful to seek reconciliation and full communion with the Church.",
+          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-07/fraternity-saint-pius-x-ways-to-repent-return-full-communion.html"
+        },
+        {
+          "title": "Society of St. Pius X appeals to Vatican against schism decree",
+          "source": "EWTN News",
+          "date": "2026-07-11",
+          "summary": "The SSPX filed a canonical appeal with the Dicastery for the Doctrine of the Faith against its July 2 excommunication decree, a step that under canon 1353 temporarily suspends enforcement while the appeal is reviewed.",
+          "url": "https://www.ewtnnews.com/vatican/society-of-st-pius-x-appeals-to-vatican-against-schism-decree"
+        }
+      ]
+    },
+    {
+      "heading": "Wider Catholic Press",
+      "articles": [
+        {
+          "title": "Irish bishops condemn burning of mosque replica at holiday festivities",
+          "source": "EWTN News",
+          "date": "2026-07-11",
+          "summary": "Archbishop Eamon Martin of Armagh joined Church of Ireland leaders in denouncing a replica mosque burned atop a loyalist bonfire in Northern Ireland, calling it a grossly offensive attack on the Muslim community.",
+          "url": "https://www.ewtnnews.com/world/europe/irish-bishops-condemn-burning-of-mosque-replica-at-holiday-festivities"
+        },
+        {
+          "title": "Catholic Church in Colombia calls for respecting presidential election results",
+          "source": "EWTN News",
+          "date": "2026-07-11",
+          "summary": "Colombia's bishops' conference urged citizens and political leaders to accept the outcome of the June presidential runoff as a condition for national peace, amid a dispute over the results.",
+          "url": "https://www.ewtnnews.com/world/americas/catholic-church-in-colombia-calls-for-respecting-presidential-election-results"
+        },
+        {
+          "title": "Society of St. Pius X appeals to Vatican against schism decree, cites Canon 1353",
+          "source": "National Catholic Register",
+          "date": "2026-07-11",
+          "summary": "CNA/NCRegister's coverage of the SSPX appeal notes the group argues the excommunication decree is now suspended pending Vatican review, while it continues to reject the Vatican's characterization of its status.",
+          "url": "https://www.ncregister.com/cna/society-of-st-pius-x-appeals-to-vatican-against-schism-decree"
+        },
+        {
+          "title": "Training journalists to be peacemakers: EWTN Summer Academy concludes in Rome",
+          "source": "EWTN News",
+          "date": "2026-07-07",
+          "summary": "EWTN's fifth annual Summer Academy wrapped up in Rome, having trained 43 young journalists from 26 countries in Catholic media storytelling, with organizers stressing truth-telling as a form of peacemaking.",
+          "url": "https://www.ewtnnews.com/vatican/training-journalists-to-be-peacemakers-ewtn-summer-academy-concludes-in-rome"
+        }
+      ]
+    }
+  ],
+  "footer_note": "Compiled from Vatican News, the Holy See Press Office, and the wider Catholic press (EWTN News, Catholic News Agency, National Catholic Register). For personal use."
+}
