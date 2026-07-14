@@ -1,0 +1,46 @@
+{
+  "title": "Catholic Intelligence Newsletter",
+  "subtitle": "A Weekly Briefing on the Vatican and the Universal Church",
+  "issue_line": "Issue No. 1  |  Week of July 20, 2026",
+  "issue_date": "2026-07-20",
+  "intro": "This week: a summary of Vatican News, Holy See Press Office bulletins, and coverage from the wider Catholic press.",
+  "sections": [
+    {
+      "heading": "Vatican News",
+      "articles": [
+        {
+          "title": "Example headline from Vatican News",
+          "source": "Vatican News",
+          "date": "2026-07-18",
+          "summary": "One or two sentence plain-language summary of the article.",
+          "url": "https://www.vaticannews.va/en/example-article.html"
+        }
+      ]
+    },
+    {
+      "heading": "Holy See Press Office",
+      "articles": [
+        {
+          "title": "Example bulletin headline",
+          "source": "Holy See Press Office",
+          "date": "2026-07-17",
+          "summary": "Summary of the official bulletin.",
+          "url": "https://press.vatican.va/example"
+        }
+      ]
+    },
+    {
+      "heading": "Wider Catholic Press",
+      "articles": [
+        {
+          "title": "Example CNA / EWTN / USCCB headline",
+          "source": "Catholic News Agency",
+          "date": "2026-07-16",
+          "summary": "Summary of the article from the wider Catholic press.",
+          "url": "https://www.catholicnewsagency.com/example"
+        }
+      ]
+    }
+  ],
+  "footer_note": "Compiled from Vatican and Catholic press sources. For personal use."
+}
