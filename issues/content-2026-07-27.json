@@ -1,0 +1,106 @@
+{
+  "title": "Catholic Newsletter",
+  "subtitle": "Blessed Sacrament Catholic Church",
+  "issue_date": "2026-07-27",
+  "intro": "This week the Holy Father closed out his summer stay at Castel Gandolfo with a fresh appeal for peace in the Middle East and a surprise pilgrimage to Benedictine shrines, while the Vatican named a new envoy to the United Nations. In North Carolina, both dioceses continued to respond pastorally to the SSPX schism and marked Natural Family Planning Awareness Week alongside the wider U.S. Church.",
+  "sections": [
+    {
+      "heading": "Vatican News",
+      "articles": [
+        {
+          "title": "Pope calls for renewed negotiations for a just peace in the Middle East",
+          "source": "Vatican News",
+          "date": "2026-07-26",
+          "summary": "At his final Angelus of the summer from Castel Gandolfo, Pope Leo XIV renewed an urgent appeal over the West Bank and Gaza, calling on all sides to halt military attacks and return to dialogue and diplomacy.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-xiv-appeal-middleast-negotiations-just-solution-peace.html"
+        },
+        {
+          "title": "Pope makes surprise excursions to Holy Trinity Shrine and Benedictine monasteries",
+          "source": "Vatican News",
+          "date": "2026-07-22",
+          "summary": "During his summer break, Pope Leo XIV made an unannounced pilgrimage to the mountainside Shrine of the Holy Trinity in Vallepietra and then to the Benedictine monasteries in Subiaco, praying at the cave where St. Benedict once lived.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-xiv-visit-sanctuary-holy-trinity-valle-pietra-st-anne.html"
+        },
+        {
+          "title": "Pope urges Peruvian youth to serve the forgotten with 'holy rebellion'",
+          "source": "Vatican News",
+          "date": "2026-07-25",
+          "summary": "In a video message to young people of the Prelature of Chota and Cutervo in Peru, the Pope encouraged them to resist passivity and bring hope to situations of suffering through joyful, everyday missionary service.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-xiv-message-young-people-peru-chota-cutervo-youth-day.html"
+        }
+      ]
+    },
+    {
+      "heading": "Holy See Press Office",
+      "articles": [
+        {
+          "title": "Pope names Archbishop El-Kassis as Permanent Observer to the United Nations",
+          "source": "Holy See Press Office",
+          "date": "2026-07-25",
+          "summary": "The Bulletin announced that Pope Leo XIV appointed Lebanese-born Archbishop Christophe Zakhia El-Kassis, until now nuncio to the United Arab Emirates and Yemen, as the Holy See's new permanent observer to the UN in New York, succeeding Archbishop Gabriele Caccia.",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/07.html"
+        },
+        {
+          "title": "Episcopal ordination announced for Bishop of Chifeng, China",
+          "source": "Holy See Press Office",
+          "date": "2026-07-22",
+          "summary": "The Bulletin recorded the episcopal ordination of Rev. Giuseppe Chang Yanfeng as Bishop of Chifeng in Inner Mongolia, following his appointment by the Holy Father earlier this year.",
+          "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2026/07/22/0597/01119.html"
+        }
+      ]
+    },
+    {
+      "heading": "Wider Catholic Press",
+      "articles": [
+        {
+          "title": "Sedevacantist Scottish monks perform illicit consecration of bishop despite schism warnings",
+          "source": "EWTN News",
+          "date": "2026-07-25",
+          "summary": "A group of sedevacantist monks in Scotland, the Transalpine Redemptorists, livestreamed the illicit consecration of one of their own as bishop, defying a pastoral warning from the local bishop that the act would place them outside the Catholic Church.",
+          "url": "https://www.ewtnnews.com/world/sedevacantist-scottish-monks-perform-illicit-consecration-of-bishop-in-spite-of-schism-warnings"
+        },
+        {
+          "title": "Catholic parents of Texas flood victims share witness to faith amid grief",
+          "source": "EWTN News",
+          "date": "2026-07-25",
+          "summary": "A year after losing their two daughters in the Texas Hill Country floods, a Catholic couple spoke about how their faith and their daughters' devotion to the rosary have sustained them through grief.",
+          "url": "https://www.ewtnnews.com/world/us/catholic-parents-of-texas-flood-victims-share-witness-to-faith-amidst-grief"
+        },
+        {
+          "title": "Catholic Relief Services continues emergency response to Venezuela earthquakes",
+          "source": "OSV News",
+          "date": "2026-07-24",
+          "summary": "CRS and its partner Caritas Venezuela remain deployed following the twin June earthquakes, having distributed thousands of food and hygiene kits, emergency shelter materials, and safe water while planning for long-term recovery.",
+          "url": "https://www.osvnews.com/catholic-leaders-aid-workers-respond-to-venezuela-earthquakes/"
+        },
+        {
+          "title": "U.S. bishops' Natural Family Planning Awareness Week campaign concludes",
+          "source": "Catholic World Report",
+          "date": "2026-07-20",
+          "summary": "The USCCB's annual NFP Awareness Week, themed 'Designed by God, Guided by Love, Open to Life,' ran July 19-25, timed to the anniversary of Pope Paul VI's encyclical Humanae Vitae, with parishes encouraged to offer Masses and devotions for marriage.",
+          "url": "https://www.catholicworldreport.com/2026/07/20/u-s-bishops-natural-family-planning-awareness-week-campaign-begins/"
+        }
+      ]
+    },
+    {
+      "heading": "North Carolina: Dioceses of Raleigh & Charlotte",
+      "articles": [
+        {
+          "title": "Bishop Martin appeals to SSPX faithful: 'The door of the Church is open'",
+          "source": "Catholic News Herald",
+          "date": "2026-07-17",
+          "summary": "Following the Vatican's declaration that the Society of St. Pius X is in schism, Bishop Michael Martin issued a pastoral letter inviting Charlotte-area Catholics associated with the SSPX to return to full communion and offering pastoral support to anyone seeking guidance.",
+          "url": "https://catholicnewsherald.com/90-news/local/12862-bishop-martin-appeals-to-sspx-faithful-the-door-of-the-church-is-open"
+        },
+        {
+          "title": "Love beyond measure: Celebrating NFP Awareness Week, July 21-27",
+          "source": "Diocese of Raleigh",
+          "date": "2026-07-21",
+          "summary": "The Diocese of Raleigh joined the USCCB's Natural Family Planning Awareness Week, highlighting its Marriage and Family Life ministry's resources for couples seeking to learn NFP methods rooted in Church teaching.",
+          "url": "https://dioceseofraleigh.org/news/love-beyond-measure-celebrating-nfp-awareness-week-july-21-27"
+        }
+      ]
+    }
+  ],
+  "footer_note": "Compiled from Vatican and Catholic press sources, and the Dioceses of Raleigh and Charlotte. For personal use."
+}
