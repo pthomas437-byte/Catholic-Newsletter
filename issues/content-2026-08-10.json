@@ -1,0 +1,134 @@
+{
+  "title": "Catholic Newsletter",
+  "subtitle": "Blessed Sacrament Catholic Church",
+  "issue_date": "2026-08-10",
+  "intro": "This week centers on Pope Leo XIV's Jubilee outreach to young people in Assisi and the Vatican's announcement of his first Latin American apostolic journey, an 11-day visit to Uruguay, Argentina, and Peru this November. The wider Church continues to reckon with the fallout of the SSPX schism, while a new archbishop was named for San Juan, Puerto Rico. Closer to home, both the Raleigh and Charlotte dioceses kicked off the new school year and continued to respond to strong Catholic population growth in the region.",
+  "sections": [
+    {
+      "heading": "Vatican News",
+      "articles": [
+        {
+          "title": "Pope Leo urges young people in Assisi to become 'new saints'",
+          "source": "Vatican News",
+          "date": "2026-08-06",
+          "summary": "Celebrating the feast of the Transfiguration with roughly 2,500 young pilgrims at the Basilica of St. Mary of the Angels, Pope Leo XIV called on them to make a definitive, courageous commitment to Christ rather than drift through an unstable culture. He urged the crowd to reject a 'culture of power' and instead build a world rooted in fraternity.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-assisi-jubilee-young-people-new-saints.html"
+        },
+        {
+          "title": "Pope Leo XIV's August prayer intention: evangelization in the city",
+          "source": "Vatican News",
+          "date": "2026-08-01",
+          "summary": "The Holy Father's prayer intention for August asks the faithful to pray that local Churches, through witness and dialogue, become signs of hope and instruments of evangelization within the everyday life of cities.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-xiv-prayer-intention-august-2026.html"
+        },
+        {
+          "title": "Pope resumes weekly public Masses and audiences after July rest",
+          "source": "Vatican News",
+          "date": "2026-08-02",
+          "summary": "After a quieter July spent largely at Castel Gandolfo, Pope Leo XIV returned to a full weekly public schedule in August, resuming Wednesday general audiences and leading Sunday Angelus addresses on August 2 and August 9.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-xiv-angelus-9-august-2026.html"
+        },
+        {
+          "title": "Pope Leo to mark the Assumption at Castel Gandolfo",
+          "source": "Vatican News",
+          "date": "2026-08-09",
+          "summary": "The Vatican confirmed the Pope will celebrate Mass for the Solemnity of the Assumption on August 15 at the parish of St. Thomas of Villanova in Castel Gandolfo, followed by a midday Angelus for the Marian feast.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-assumption-castel-gandolfo-august-15.html"
+        }
+      ]
+    },
+    {
+      "heading": "Holy See Press Office",
+      "articles": [
+        {
+          "title": "Vatican announces papal journey to Uruguay, Argentina and Peru",
+          "source": "Holy See Press Office",
+          "date": "2026-08-05",
+          "summary": "Director Matteo Bruni announced that Pope Leo XIV will travel to Uruguay, Argentina, and Peru from November 6-17, 2026 — his first trip to Latin America as pope and sixth international journey overall. He will spend the longest stretch, seven days, in Peru, where he lived and ministered for two decades before his election.",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/08/05/260805b.html"
+        },
+        {
+          "title": "New consultor named to Dicastery for Institutes of Consecrated Life",
+          "source": "Holy See Press Office",
+          "date": "2026-08-06",
+          "summary": "The Holy See announced the appointment of Sister Maria Nirmalini, A.C., as a Consultor of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life for a five-year term, bringing an Indian religious perspective to the dicastery's international consultations.",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/08/06.html"
+        },
+        {
+          "title": "Calendar of the Holy Father's August liturgical celebrations released",
+          "source": "Holy See Press Office",
+          "date": "2026-07-30",
+          "summary": "The Press Office published Pope Leo XIV's schedule of liturgical celebrations for August, listing the Assisi Mass for the Transfiguration, weekly Angelus addresses, and the Assumption Mass at Castel Gandolfo.",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/07/30/260730a.html"
+        }
+      ]
+    },
+    {
+      "heading": "Wider Catholic Press",
+      "articles": [
+        {
+          "title": "Pope Leo XIV names new archbishop of San Juan, Puerto Rico",
+          "source": "Catholic News Agency",
+          "date": "2026-08-06",
+          "summary": "Bishop Eusebio Ramos Morales of Caguas was appointed to succeed Archbishop Roberto González Nieves, who has led the San Juan archdiocese since 1999. Ramos, a native of Maunabo ordained in 1983, is known among clergy as a steady, conciliatory pastoral presence.",
+          "url": "https://www.catholicnewsagency.com/news/pope-leo-xiv-names-new-archbishop-of-san-juan-puerto-rico"
+        },
+        {
+          "title": "After SSPX schism, Catholics urge greater access to the older Latin Mass",
+          "source": "America Magazine",
+          "date": "2026-08-03",
+          "summary": "In the wake of the SSPX's unauthorized episcopal consecrations and subsequent excommunications, some traditional Catholics are pressing for wider permission to celebrate the pre-1970 Mass, though the Vatican has signaled Pope Leo does not intend to reverse the restrictions of Traditionis Custodes.",
+          "url": "https://www.americamagazine.org/news/2026/08/03/sspx-schism-latin-mass-pope-leo/"
+        },
+        {
+          "title": "Nicaragua's government intensifies persecution of the Catholic Church",
+          "source": "EWTN News",
+          "date": "2026-08-07",
+          "summary": "EWTN News In Depth reported on escalating pressure from the Ortega government against Catholic clergy and institutions in Nicaragua, continuing a years-long crackdown on Church activity in the country.",
+          "url": "https://ewtn.co.uk/vod-ewtn-news-in-depth-nicaragua-governments-alarming-persecution-of-catholic-church-august-7-2026/"
+        },
+        {
+          "title": "Amid declining divorce rates, Catholic marriage advocates urge continued support",
+          "source": "EWTN News",
+          "date": "2026-08-06",
+          "summary": "Catholic marriage-ministry leaders welcomed national data showing falling divorce rates but cautioned that couples still need sustained formation and parish support to build lasting marriages.",
+          "url": "https://www.ewtnnews.com/us/amid-declining-divorce-rates-catholic-marriage-advocates-urge-continued-support-for-married-couples"
+        }
+      ]
+    },
+    {
+      "heading": "North Carolina: Dioceses of Raleigh & Charlotte",
+      "articles": [
+        {
+          "title": "Diocese of Raleigh schools gather for annual All Employee Mass",
+          "source": "Diocese of Raleigh",
+          "date": "2026-08-04",
+          "summary": "Faculty and staff from across the diocese's Catholic school system gathered at a single Mass celebrated by Bishop Luis Zarama to open the new school year, a tradition bringing together educators and administrators from every diocesan school.",
+          "url": "https://dioceseofraleigh.org/news/diocese-raleigh-catholic-schools-gather-annual-all-employee-mass"
+        },
+        {
+          "title": "Catholic Charities' Drive Out Hunger golf outing benefits NC food pantries",
+          "source": "Diocese of Raleigh",
+          "date": "2026-08-10",
+          "summary": "The 9th Annual Drive Out Hunger Golf Outing was held at Prestonwood Country Club in Cary to raise funds for Catholic Charities of the Diocese of Raleigh, which operates five food pantries across central and eastern North Carolina.",
+          "url": "https://www.catholiccharitiesraleigh.org/event/golf-2026/"
+        },
+        {
+          "title": "Diocese of Charlotte moves to create new parish in Waxhaw",
+          "source": "Diocese of Charlotte",
+          "date": "2026-08-06",
+          "summary": "Bishop Michael T. Martin approved steps toward establishing a new parish centered on St. Matthew South in Waxhaw, responding to a 38% rise in Catholic families in southern Mecklenburg and Union counties over the past decade — the first new Charlotte-area parish in decades.",
+          "url": "https://catholicnewsherald.com/90-news/local/12672-diocese-to-create-waxhaw-parish-in-response-to-growth"
+        },
+        {
+          "title": "Diocese of Charlotte holds Annual Parish Ministry Leaders' Orientation",
+          "source": "Diocese of Charlotte",
+          "date": "2026-08-05",
+          "summary": "Parish ministry leaders from across the diocese gathered for a day-long orientation to prepare for the coming pastoral year, part of the diocese's ongoing formation efforts for lay and staff leadership.",
+          "url": "https://charlottediocese.org/communications-categories/news-releases/"
+        }
+      ]
+    }
+  ],
+  "footer_note": "Compiled from Vatican and Catholic press sources, and the Dioceses of Raleigh and Charlotte. For personal use."
+}
