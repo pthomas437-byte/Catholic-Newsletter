@@ -1,0 +1,134 @@
+{
+  "title": "Catholic Newsletter",
+  "subtitle": "Blessed Sacrament Catholic Church",
+  "issue_date": "2026-08-12",
+  "intro": "This special mid-week update leads with Pope Leo XIV's response to the devastating earthquake in Colombia and his newly announced World Day of Peace 2027 theme on the moral limits of AI in warfare. This issue also introduces expanded coverage from The Pillar and Crux, plus news from our own Blessed Sacrament parish and Knights of Columbus Council 3498, including a report from the Knights' 144th Supreme Convention in Denver.",
+  "sections": [
+    {
+      "heading": "Vatican News",
+      "articles": [
+        {
+          "title": "Pope Leo XIV offers prayers and condolences after Colombia earthquake",
+          "source": "Vatican News",
+          "date": "2026-08-11",
+          "summary": "After a magnitude 7.4 earthquake struck western Colombia on August 10, killing at least 132 people, Pope Leo XIV sent a telegram of condolence to the Colombian bishops, praying for the dead and for strength for rescue and relief workers.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-prays-for-victims-of-colombia-earthquake-asks-for-closeness.html"
+        },
+        {
+          "title": "Pope Leo XIV holds General Audience, continues weekly August schedule",
+          "source": "Vatican News",
+          "date": "2026-08-12",
+          "summary": "The Holy Father held his Wednesday General Audience at the Vatican, continuing the full weekly public schedule he resumed this month after a quieter July.",
+          "url": "https://www.vatican.va/content/leo-xiv/en/audiences/2026.html"
+        },
+        {
+          "title": "'No algorithm can make war morally acceptable,' Pope says in Peace Day message",
+          "source": "Vatican News",
+          "date": "2026-08-11",
+          "summary": "Previewing his theme for the 60th World Day of Peace, Pope Leo XIV warned against entrusting military decisions to artificial intelligence and called for shared international agreements to keep human moral responsibility at the center of decisions about war.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/60th-world-day-of-peace-theme-disarming-technology-for-peace.html"
+        }
+      ]
+    },
+    {
+      "heading": "Holy See Press Office",
+      "articles": [
+        {
+          "title": "Eight new members named to Vatican's Council for the Economy",
+          "source": "Holy See Press Office",
+          "date": "2026-08-11",
+          "summary": "Pope Leo XIV appointed eight new members, including four laypeople, to the Council for the Economy, which oversees the Roman Curia's financial and administrative structures; Cardinal Reinhard Marx was reconfirmed as president.",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/08/11.html"
+        },
+        {
+          "title": "Cardinal Parolin conveys pope's condolences to Colombia's bishops",
+          "source": "Holy See Press Office",
+          "date": "2026-08-11",
+          "summary": "In an official telegram to Archbishop Francisco Javier Múnera Correa, president of the Colombian Bishops' Conference, Secretary of State Cardinal Pietro Parolin relayed the Holy Father's spiritual closeness to families mourning victims of the earthquake.",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/08/11/260811a.html"
+        },
+        {
+          "title": "Dicastery announces theme for 60th World Day of Peace",
+          "source": "Holy See Press Office",
+          "date": "2026-08-11",
+          "summary": "The Dicastery for Promoting Integral Human Development formally released the theme 'Disarming Technology, Serving Peace: Politics as Preventive Responsibility' for the January 1, 2027 World Day of Peace.",
+          "url": "https://www.humandevelopment.va/en/news/2026/60th-world-day-of-peace-theme.html"
+        }
+      ]
+    },
+    {
+      "heading": "Wider Catholic Press",
+      "articles": [
+        {
+          "title": "Request for a 'white bishop' sparks outrage and debate in Angola",
+          "source": "The Pillar",
+          "date": "2026-08-07",
+          "summary": "A leaked letter to Pope Leo XIV asking him to replace the Angolan bishop of Mbanza-Kongo with a white successor has ignited fierce debate in Angola over the legacy of missionary leadership and the Church's relationship with the government, in territory tied to the first Black Catholic bishop in sub-Saharan Africa.",
+          "url": "https://www.pillarcatholic.com/p/request-for-white-bishop-sparks-outrage"
+        },
+        {
+          "title": "Pope Leo XIV to meet clergy abuse survivors during September France trip",
+          "source": "Crux",
+          "date": "2026-08-07",
+          "summary": "The Vatican announced that during his September 25-28 visit to France, Pope Leo will personally meet with survivors of clerical sexual abuse, who are helping plan the encounter, continuing a pattern of survivor meetings begun on his recent Spain trip.",
+          "url": "https://cruxnow.com/vatican/2026/08/pope-leo-to-meet-with-clergy-abuse-survivors-during-upcoming-trip-to-france"
+        },
+        {
+          "title": "U.S. bishops ask for 'intense prayers' for Hamas-Israel peace amid Gaza crisis",
+          "source": "USCCB",
+          "date": "2026-08-03",
+          "summary": "Bishop A. Elias Zaidan, chairman of the USCCB's Committee on International Justice and Peace, welcomed news of a peace agreement between the Gaza Board of Peace and Hamas and called on Catholics to pray for its success and for relief of Gazan suffering.",
+          "url": "https://www.usccb.org/news/2026/bishop-zaidan-calls-prayer-and-expresses-hope-success-peace-agreement-gaza"
+        },
+        {
+          "title": "Nicaragua's government intensifies persecution of the Catholic Church",
+          "source": "EWTN News",
+          "date": "2026-08-07",
+          "summary": "EWTN News In Depth reported on escalating pressure from the Ortega government against Catholic clergy and institutions in Nicaragua, continuing a years-long crackdown on Church activity in the country.",
+          "url": "https://ewtn.co.uk/vod-ewtn-news-in-depth-nicaragua-governments-alarming-persecution-of-catholic-church-august-7-2026/"
+        }
+      ]
+    },
+    {
+      "heading": "North Carolina: Dioceses of Raleigh & Charlotte",
+      "articles": [
+        {
+          "title": "Knights of Columbus mark unity and charity at 144th Supreme Convention",
+          "source": "Knights of Columbus Supreme Council",
+          "date": "2026-08-06",
+          "summary": "More than 2,000 Knights, including members from our own Council 3498, gathered in Denver August 4-6 under the theme 'In the One, We Are One.' Supreme Knight Patrick Kelly presented the Order's annual report, and Father Bob Higgins of South Carolina received the Blessed McGivney Medal for service to veterans, the incarcerated, and the poor.",
+          "url": "https://www.kofc.org/get-involved/events/supreme-conventions/2026/"
+        },
+        {
+          "title": "Council 3498 continues its ministry at Blessed Sacrament",
+          "source": "Knights of Columbus Council 3498",
+          "date": "2026-08-10",
+          "summary": "Our parish's own Knights of Columbus council, chartered in 1952 and meeting at the Koury Social Center on the Blessed Sacrament grounds, continues its regular program of fraternal, charitable, and parish-support activities; members are invited to submit newsletter items at council meetings.",
+          "url": "https://cc.blessedsacramentnc.org/council-3498-newsletter"
+        },
+        {
+          "title": "This week's bulletin from Blessed Sacrament Catholic Community",
+          "source": "Blessed Sacrament Catholic Community",
+          "date": "2026-08-09",
+          "summary": "Our parish's latest bulletin, with Mass times, ministry announcements, and upcoming parish events, is available online and by email sign-up through the parish website.",
+          "url": "https://cc.blessedsacramentnc.org/bulletins"
+        },
+        {
+          "title": "Diocese of Charlotte announces retirement of Father Dean Cesa",
+          "source": "Diocese of Charlotte",
+          "date": "2026-08-12",
+          "summary": "Bishop Michael T. Martin announced the retirement of Father Dean Cesa, effective August 12, as the diocese continues a season of clergy transitions following this year's priest assignment changes.",
+          "url": "https://charlottediocese.org/communications-categories/news-releases/"
+        },
+        {
+          "title": "Diocese of Raleigh's Drive Out Hunger golf outing supports food pantries",
+          "source": "Diocese of Raleigh",
+          "date": "2026-08-10",
+          "summary": "The 9th Annual Drive Out Hunger Golf Outing was held at Prestonwood Country Club in Cary to raise funds for Catholic Charities of the Diocese of Raleigh, which operates five food pantries across central and eastern North Carolina.",
+          "url": "https://www.catholiccharitiesraleigh.org/event/golf-2026/"
+        }
+      ]
+    }
+  ],
+  "footer_note": "Compiled from Vatican and Catholic press sources, the Dioceses of Raleigh and Charlotte, and our own Blessed Sacrament parish and Knights of Columbus Council 3498. For personal use."
+}
