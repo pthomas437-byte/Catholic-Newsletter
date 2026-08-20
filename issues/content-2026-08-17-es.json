@@ -1,0 +1,128 @@
+{
+  "title": "Boletín Católico",
+  "subtitle": "Comunidad Católica Blessed Sacrament",
+  "issue_date": "2026-08-17",
+  "language": "es-419",
+  "intro": "Esta semana gira en torno a la estancia del Papa León XIV en Castel Gandolfo, donde su homilía de la Asunción sobre la verdadera belleza y su llamado del Ángelus dominical por la paz marcaron el tono, junto con nombramientos en el gobierno vaticano para el Consejo de Economía y el Pontificio Comité de Ciencias Históricas. La prensa católica en general cubrió la continua ayuda tras el terremoto en Colombia, la defensa de la USCCB sobre las normas de Medicaid, y casos de rendición de cuentas relacionados con obispos en Nicaragua e Inglaterra, mientras que aquí en Carolina del Norte la Diócesis de Raleigh anunció nuevas asignaciones de sacerdotes y las escuelas católicas de Charlotte recibieron a los estudiantes para el nuevo año escolar.",
+  "sections": [
+    {
+      "heading": "Noticias del Vaticano",
+      "articles": [
+        {
+          "title": "El Papa en la Audiencia: El año litúrgico renueva la obra salvadora de Cristo",
+          "source": "Vatican News",
+          "date": "12 de agosto de 2026",
+          "summary": "Continuando su catequesis sobre la constitución del Concilio Vaticano II sobre la liturgia, el Papa León XIV llamó al domingo el 'fundamento y núcleo' de todo el año litúrgico, y exhortó a los fieles a priorizar la asistencia presencial a la Misa por encima de seguirla de forma virtual.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-at-audience-the-liturgical-year-renews-christ-s-saving-work.html"
+        },
+        {
+          "title": "El Papa León celebrará la fiesta de la Asunción en Castel Gandolfo",
+          "source": "Vatican News",
+          "date": "12 de agosto de 2026",
+          "summary": "El Vaticano anunció que el Papa León XIV permanecería en la residencia papal de Castel Gandolfo del 12 al 18 de agosto, presidiendo allí la Misa de la Asunción el 15 de agosto.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-to-return-to-castel-gandolfo-until-18-august.html"
+        },
+        {
+          "title": "El Papa: 'La pureza del alma de María nos conduce hacia la gloria del Cielo'",
+          "source": "Vatican News",
+          "date": "15 de agosto de 2026",
+          "summary": "En su homilía de la Asunción en Castel Gandolfo, el Papa León XIV presentó a María como modelo de un amor duradero y entregado, en contraste con la idea pasajera y 'consumista' de la belleza, y la propuso como guía y protectora en el camino hacia el cielo.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-xiv-assumption-homily-3026-castel-gandolfo-mary-mass.html"
+        },
+        {
+          "title": "El Papa en el Ángelus: La mesa de Dios está puesta para todos",
+          "source": "Vatican News",
+          "date": "16 de agosto de 2026",
+          "summary": "Hablando desde Castel Gandolfo en su Ángelus dominical, el Papa León XIV renovó su llamado para poner fin a la violencia contra la población civil en Cisjordania e instó a la comunidad internacional a avanzar hacia una solución de dos Estados que traiga una paz justa y duradera.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-angelus-address-16-august-2026.html"
+        }
+      ]
+    },
+    {
+      "heading": "Oficina de Prensa de la Santa Sede",
+      "articles": [
+        {
+          "title": "El Papa renueva la composición del Consejo de Economía",
+          "source": "Oficina de Prensa de la Santa Sede",
+          "date": "11 de agosto de 2026",
+          "summary": "El Papa León XIV nombró a ocho nuevos miembros del Consejo de Economía del Vaticano, incluidos cuatro cardenales arzobispos y cuatro expertos laicos, reconfirmando al cardenal Reinhard Marx como presidente coordinador del organismo que supervisa las finanzas y el presupuesto anual de la Santa Sede.",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/08/11/260811a.html"
+        },
+        {
+          "title": "Nuevos miembros nombrados al Pontificio Comité de Ciencias Históricas",
+          "source": "Oficina de Prensa de la Santa Sede",
+          "date": "13 de agosto de 2026",
+          "summary": "El boletín diario del Vaticano anunció tres nuevos académicos incorporados al Pontificio Comité de Ciencias Históricas, dando continuidad a la larga tradición del organismo de convocar a historiadores internacionales para asesorar a la Santa Sede en investigación histórica.",
+          "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2026/08/13/0637/01190.html"
+        }
+      ]
+    },
+    {
+      "heading": "Prensa Católica en General",
+      "articles": [
+        {
+          "title": "La Iglesia en Colombia ora y se moviliza tras un fuerte terremoto",
+          "source": "EWTN News",
+          "date": "11 de agosto de 2026",
+          "summary": "Tras el terremoto de magnitud 7.4 que sacudió la región del Chocó en Colombia el 10 de agosto y dejó más de 100 muertos, los obispos colombianos hicieron un llamado a la solidaridad nacional y a la oración, mientras el Papa León XIV envió sus condolencias y destinó ayuda papal a las labores de socorro.",
+          "url": "https://www.ewtnnews.com/world/americas/church-in-colombia-prays-and-mobilizes-to-help-those-affected-by-major-earthquake"
+        },
+        {
+          "title": "Los obispos católicos piden compasión y acceso a la atención médica en la nueva norma de Medicaid",
+          "source": "EWTN News",
+          "date": "13 de agosto de 2026",
+          "summary": "La USCCB, junto con la Asociación Católica de Salud y Caridades Católicas USA, está presionando a los reguladores federales para suavizar los nuevos requisitos laborales de Medicaid, advirtiendo que podrían dejar sin cobertura a personas médicamente frágiles antes de que entren en vigor en enero de 2027.",
+          "url": "https://www.ewtnnews.com/world/us/usccb-medicaid-work-requirement-suggest-changes"
+        },
+        {
+          "title": "Obispo nicaragüense reaparece en una entrevista del régimen seis semanas después de su desaparición",
+          "source": "The Pillar",
+          "date": "14 de agosto de 2026",
+          "summary": "El obispo Juan Abelardo Mata apareció en la televisión estatal nicaragüense por primera vez desde que fue detenido a finales de junio tras predicar sobre la persecución a la Iglesia, lo que generó preocupación internacional de que la aparición esconda un arresto domiciliario ilegal.",
+          "url": "https://www.pillarcatholic.com/p/nicaraguan-bishop-appears-in-regime"
+        },
+        {
+          "title": "El Papa renueva su llamado por la paz en Ucrania ante el aumento de víctimas civiles",
+          "source": "Crux",
+          "date": "9 de agosto de 2026",
+          "summary": "En su Ángelus dominical, el Papa León XIV pidió un alto el fuego inmediato y el respeto al derecho humanitario en Ucrania, señalando el aumento de muertes civiles en ambos bandos tras la intensificación de ataques contra zonas pobladas e infraestructura energética.",
+          "url": "https://cruxnow.com/vatican/2026/08/pope-appeals-for-peace-in-ukraine-as-reports-of-civilian-casualties-multiply-on-both-sides"
+        }
+      ]
+    },
+    {
+      "heading": "Carolina del Norte: Diócesis de Raleigh y Charlotte",
+      "articles": [
+        {
+          "title": "Se anuncian nuevas asignaciones sacerdotales para parroquias de Durham y Raleigh",
+          "source": "Diócesis de Raleigh",
+          "date": "10 de agosto de 2026",
+          "summary": "El obispo Luis Rafael Zarama anunció varias nuevas asignaciones de sacerdotes en la diócesis, incluyendo nuevos párrocos y vicarios parroquiales en parroquias de Durham y Raleigh, como parte de los continuos cambios de clero de la diócesis.",
+          "url": "https://dioceseofraleigh.org/news/new-priestly-assignments-announced-durham-and-raleigh-parishes"
+        },
+        {
+          "title": "Se anuncia la Misa y Celebración Anual de la Herencia Africana de la diócesis",
+          "source": "Diócesis de Raleigh",
+          "date": "23 de agosto de 2026",
+          "summary": "La diócesis invita a los católicos a su Misa y Celebración Anual de la Herencia Africana el domingo 23 de agosto en la Catedral de Cristo Rey Santo Nombre de Jesús en Raleigh, una liturgia anual que honra los dones de los católicos afroamericanos y de ascendencia africana en la diócesis.",
+          "url": "https://dioceseofraleigh.org/event/annual-african-heritage-mass-and-celebration"
+        },
+        {
+          "title": "Las escuelas católicas de la Diócesis de Charlotte reciben a los estudiantes",
+          "source": "Diócesis de Charlotte",
+          "date": "17 de agosto de 2026",
+          "summary": "Más de 8,000 estudiantes regresaron esta semana a las escuelas católicas de la Diócesis de Charlotte, con nuevas instalaciones y programas, incluidos complejos deportivos ampliados y nuevas ofertas académicas en varias escuelas secundarias de la diócesis.",
+          "url": "https://catholicnewsherald.com/90-news/local/12914-summer-projects-build-excitement-for-a-new-year-of-learning"
+        },
+        {
+          "title": "El boletín de esta semana de la Comunidad Católica Blessed Sacrament",
+          "source": "Comunidad Católica Blessed Sacrament",
+          "date": "16 de agosto de 2026",
+          "summary": "El boletín más reciente de nuestra parroquia, con los horarios de Misa, anuncios de ministerios y próximos eventos como el Desayuno de Oración para Mujeres del 22 de agosto, está disponible en línea y por suscripción de correo electrónico a través del sitio web de la parroquia.",
+          "url": "https://cc.blessedsacramentnc.org/bulletins"
+        }
+      ]
+    }
+  ],
+  "footer_note": "Edición en español (latinoamericano), publicada mensualmente junto con la edición en inglés. Los enlaces de las fuentes remiten a los artículos originales, que pueden estar en inglés. Recopilado de fuentes vaticanas y de la prensa católica, de las Diócesis de Raleigh y Charlotte, y de nuestra propia parroquia Blessed Sacrament. Para uso personal."
+}

@@ -18,11 +18,28 @@ issue was produced.
    this folder and copies the newest `.docx` into
    `C:\Users\pthom\iCloudDrive\Catholic Newsletter` — no manual steps needed.
 
+### Monthly Spanish edition
+
+Starting with the **2026-08-17** issue, the routine also produces a Latin
+American Spanish (`es`) translation of that week's content once a month — on
+the issue that falls on the first Monday on or after the 17th of the month
+(so roughly: Aug 17, Sept 21, Oct 19, Nov 16, ...). All other weeks remain
+English-only.
+
+The Spanish edition is a separate content file with a top-level
+`"language": "es-419"` field, e.g. `content-<date>-es.json`, translating the
+title, headings, intro, article titles/summaries, and footer note into
+Spanish (source URLs are left pointing at the original-language article).
+Running `generate_newsletter.py` on it produces
+`Catholic_Intelligence_Newsletter_<date>_ES.docx` — the `language` field
+adds the `_ES` suffix automatically and doesn't affect the English filename.
+
 ## Folder structure
 
 - `generate_newsletter.py` — builds the Navy & Gold `.docx` from a JSON content file.
-- `content.example.json` — example of the JSON shape the generator expects.
-- `issues/` — each week's generated `.docx` newsletter, plus the `content-<date>.json` it was built from.
+- `content.example.json` — example of the JSON shape the generator expects (English).
+- `issues/` — each week's generated `.docx` newsletter(s), plus the `content-<date>.json`
+  (and, once a month, `content-<date>-es.json`) each was built from.
 
 ## Running it yourself (optional)
 

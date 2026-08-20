@@ -66,17 +66,27 @@ def set_narrow_margins(doc, inches=0.9):
         section.right_margin = Inches(inches)
 
 
+SPANISH_MONTHS = {
+    1: "enero", 2: "febrero", 3: "marzo", 4: "abril",
+    5: "mayo", 6: "junio", 7: "julio", 8: "agosto",
+    9: "septiembre", 10: "octubre", 11: "noviembre", 12: "diciembre",
+}
+
+
 def format_date_line(content):
     raw = content.get("date_produced")
     if raw:
         return raw
     issue_date = content.get("issue_date")
-    if issue_date:
-        try:
-            return datetime.strptime(issue_date, "%Y-%m-%d").strftime("%B %d, %Y")
-        except ValueError:
-            return issue_date
-    return ""
+    if not issue_date:
+        return ""
+    try:
+        dt = datetime.strptime(issue_date, "%Y-%m-%d")
+    except ValueError:
+        return issue_date
+    if content.get("language", "en").split("-")[0].lower() == "es":
+        return f"{dt.day} de {SPANISH_MONTHS[dt.month]} de {dt.year}"
+    return dt.strftime("%B %d, %Y")
 
 
 def add_masthead(doc, title, parish_line, date_line):
@@ -239,7 +249,9 @@ def main():
     content = json.loads(content_path.read_text(encoding="utf-8"))
 
     issue_date = content.get("issue_date", "issue")
-    out_path = Path("issues") / f"Catholic_Intelligence_Newsletter_{issue_date}.docx"
+    language = content.get("language", "en").split("-")[0].lower()
+    suffix = "" if language == "en" else f"_{language.upper()}"
+    out_path = Path("issues") / f"Catholic_Intelligence_Newsletter_{issue_date}{suffix}.docx"
 
     saved_path = build(content, out_path)
     print(f"Saved: {saved_path.resolve()}")
